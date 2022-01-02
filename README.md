@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mark @renbatwit
+- 🌱 I’m currently studying at Wentworth Insitute of Technology. This is my school account.
+- 💞️ I’m looking to collaborate on OOP projects in languages such as Python, Java, C
+- 📫 You can reach me at renb@wit.edu
